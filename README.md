@@ -1,2 +1,2 @@
 # Hackerrank
-Hackerrank solutions of most of the challenges.
+Hackerrank solutions to some of the questions i have solved.
